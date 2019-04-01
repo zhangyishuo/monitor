@@ -1,0 +1,21 @@
+{
+	"version": 0.1,
+	"dependencies": [
+		{
+			"importpath": "github.com/containerd/cgroups/commits/master",
+			"repository": "https://github.com/containerd/cgroups",
+			"vcs": "git",
+			"revision": "dbea6f2bd41658b84b00417ceefa416b979cbf10",
+			"branch": "master",
+			"notests": true
+		},
+        {
+            "importpath": "github.com/opencontainers/runtime-spec/specs-go",
+            "repository": "https://github.com/opencontainers/runtime-spec/specs-go",
+            "vcs": "git",
+            "revision": "ad53dcdc39f1f7f7472b10aa0a45648fe4865496",
+            "branch": "master",
+            "notests": true
+        }
+	]
+}
