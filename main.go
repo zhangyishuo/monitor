@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("hello")
+	fmt.Println("hello wrold")
 	t := time.Duration(10 * time.Second)
 	tt := time.NewTicker(t)
 	for {
